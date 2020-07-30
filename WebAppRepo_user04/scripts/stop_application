@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+cd /etc/init.d
+tomcat7 stop
